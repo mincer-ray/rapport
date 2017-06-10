@@ -9,8 +9,7 @@
   "author": "peitan",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.2.1",
-    "request": "^2.81.0",
-    "webpack": "2.2.1"
+    "webpack": "^2.6.1",
+    "wordpos": "^1.1.2"
   }
 }
